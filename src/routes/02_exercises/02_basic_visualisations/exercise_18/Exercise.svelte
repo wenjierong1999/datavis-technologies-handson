@@ -1,4 +1,7 @@
 <script>
+    import{scaleLog} from 'd3-scale';
+    import {axisBottom} from "d3-axis";
+    import {select} from "d3-selection";
     // Dimensions
     const width = 800;
     const height = 100;
