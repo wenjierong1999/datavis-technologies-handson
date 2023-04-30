@@ -1,4 +1,5 @@
 <script>
+    import * as d3 from "d3"
     // Dimensions
     const width = 600;
     const height = 300;
