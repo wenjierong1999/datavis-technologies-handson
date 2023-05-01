@@ -57,4 +57,6 @@
       font-size: small;
     }
   </style>
+
+  <li>{classcolor}</li>
   
